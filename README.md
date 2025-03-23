@@ -41,4 +41,4 @@ O modelo treinado é implementado em um ambiente de produção onde pode ser usa
 - Integração com outras ferramentas e plataformas
 
 ## 9. Insights 
-Enquanto explorava a geração de imagens com IA, percebi algo fascinante: quanto mais específico e detalhado eu era ao descrever o que queria — cores, estilo, composição —, melhores e mais impressionantes eram os resultados. É como se a IA recompensasse a clareza, transformando instruções vagas em algo genérico, mas detalhes ricos em imagens quase perfeitas. A lição? Se você quer que a inteligência artificial brilhe, invista tempo em pintar o quadro exato na sua mente primeiro.
+Enquanto explorava a geração de imagens com IA, percebi que quanto mais específico e detalhado eu era ao descrever o que queria — cores, estilo, composição —, melhores e mais impressionantes eram os resultados. É como se a IA recompensasse a clareza, transformando instruções vagas em algo genérico, mas detalhes ricos em imagens relativamente próximas do que se quer. É preciso, portanto, pintar o quadro exato na mente antes de escrever o prompt.
