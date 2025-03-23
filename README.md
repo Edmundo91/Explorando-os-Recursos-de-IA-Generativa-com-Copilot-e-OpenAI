@@ -20,6 +20,9 @@ O modelo de IA, como uma **Rede Generativa Adversarial (GAN)**, é treinado usan
 
 O gerador e o discriminador são treinados juntos em um processo de competição, onde o gerador tenta criar imagens cada vez mais realistas, enquanto o discriminador melhora sua capacidade de distinguir entre imagens reais e geradas.
 
+[ilustração](/home/edmundo/Documentos/Projetos/ia/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/input/1_s66Bhg8_SjzOple4Te-usA.webp)
+
+
 ## 4. Ajuste de Hiperparâmetros
 Durante o treinamento, os hiperparâmetros do modelo, como a taxa de aprendizado e o número de camadas, são ajustados para otimizar o desempenho do modelo.
 
