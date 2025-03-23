@@ -33,9 +33,12 @@ Uma vez treinado, o modelo pode gerar novas imagens a partir de entradas aleató
 As imagens geradas podem passar por um pós-processamento para melhorar a qualidade final. Isso pode incluir:
 - Ajustes de cor
 - Melhoria de nitidez
-- Remoção de artefatos
+
 
 ## 8. Implementação
 O modelo treinado é implementado em um ambiente de produção onde pode ser usado para gerar imagens sob demanda. Isso pode envolver:
 - Criação de uma API
 - Integração com outras ferramentas e plataformas
+
+## 9. Insights 
+Enquanto explorava a geração de imagens com IA, percebi algo fascinante: quanto mais específico e detalhado eu era ao descrever o que queria — cores, estilo, composição —, melhores e mais impressionantes eram os resultados. É como se a IA recompensasse a clareza, transformando instruções vagas em algo genérico, mas detalhes ricos em imagens quase perfeitas. A lição? Se você quer que a inteligência artificial brilhe, invista tempo em pintar o quadro exato na sua mente primeiro.
